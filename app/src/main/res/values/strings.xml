@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ProyectoN1</string>
+    <string name="edit_message" />
+    <string name="send" />
+    <string name="edit_message1">Escribe algo...</string>
+    <string name="send0">Enviar</string>
+</resources>
