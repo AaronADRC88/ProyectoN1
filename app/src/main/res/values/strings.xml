@@ -4,4 +4,6 @@
     <string name="send" />
     <string name="edit_message1">Escribe algo...</string>
     <string name="send0">Enviar</string>
+    <string name="tW_del_display" />
+    <string name="back">volver</string>
 </resources>
