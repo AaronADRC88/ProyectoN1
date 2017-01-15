@@ -25,16 +25,11 @@ public class NuevaActivity extends AppCompatActivity {
         // Create the text view
         TextView textView = (TextView) findViewById(R.id.tW_del_display);
         textView.setText(message);
-
-        // Set the text view as the activity layout
-        //setContentView(textView);
-
-
     }
 
     public void goBack(View b) {
         Intent intent = new Intent();
-        setResult(Activity.RESULT_OK, intent);
+        setResult(Activity.RESULT_CANCELED, intent);
         finish();
 
     }
